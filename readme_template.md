@@ -1,10 +1,10 @@
-# Trend of number of Rides
+# Trend of number of Rides for New York
 ## by Manju Saini
 
 
 ## Dataset
 
-> The dataset was choosen from list of Udacity provided datasets. The data for each month of 2014 was downloaded from https://www.citibikenyc.com/system-data and than merged into one dataframe, the resulting dataframe was too big for processing, so a random sample of 10000 records was selected and analysis was performed on this small dataset. 
+> The dataset was choosen from list of Udacity provided datasets. The data for each month of 2014 for New York was downloaded from https://www.citibikenyc.com/system-data and than merged into one dataframe, the resulting dataframe was too big for processing, so a random sample of 10000 records was selected and analysis was performed on this small dataset. 
 
 > Data cleanup involved following steps : 
 
